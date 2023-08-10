@@ -5,7 +5,7 @@
 1. Variáveis e Nomes:
 
    - Nomes de variáveis foram atualizados para maior expressividade.
-   - Exemplo: `scanner` foi renomeado para `scanner`.
+   - Exemplo: `sc` foi renomeado para `scanner`.
 
 2. Constantes para Opções de Menu:
 
